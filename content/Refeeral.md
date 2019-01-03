@@ -14,4 +14,4 @@ Since the first crowdtainer wave will rely on word-of-mouth only, we added a **r
 - Upon a purchase, a coupon / referral code is generated
 - Each subsequent purchase made using the referral code will provide a 10% discount for the buyer, and 10% of the purchase value goes to the referral code owner.
 
-Of course, these are only effective and claimable if the minimum funding goal is reached successfully.
+The discounts and rewards are only effective if the minimum funding goal is reached successfully.

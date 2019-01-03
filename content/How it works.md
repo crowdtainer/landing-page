@@ -17,16 +17,16 @@ By purchasing coffee *through Crowdtainer instead*, **a bigger** part of your mo
 * Both parties benefit from a **closer relationship** and **sharing of values** (e.g. environmental responsibility, human care)
 
 #### Think of it as an ICO, except instead of giving you '*tokens*', we ship *real coffee*.
-**I**nitial **Coffee** **O**ffering ? 😉
+**I**nitial **Coffee** **O**ffering ?
 
-### The *happy* path 😎:
+### The *happy* path:
 
 1. Choose the amount and roast level
 2. Pay with DAI token 
 3. The funding goal is reached ✅
 4. Get the next harvest specialty coffee ☕️ delivered to your door 🏠
 
-### The *unhappy* path 😒:
+### The *unhappy* path:
 
 1. Choose the amount and roast level
 2. Pay with DAI token
@@ -39,6 +39,5 @@ By purchasing coffee *through Crowdtainer instead*, **a bigger** part of your mo
 * The delivery address is **never** saved on the Blockchain or made public anyhow: we follow **GDPR** rules, and collect only the information needed for delivery purposes. Such information is sent off-chain in encrypted form to our centralised severs, and will be destroyed once the item is shipped. 
 * For the first Crowdtainer, only **European Union** customers are eligible.
 * 1 DAI approximates 1 US Dolar. We use **DAI** instead of **Ether** (or bitcoin for that matter) to avoid volatility. The *_DAI_* is a USD-pegged stablecoin token that exists on the Ethereum network, the same where crowdtainer is conducted.
-* The minimum funding goal is at least one container (which equals 19.200,00 Kilograms of coffee).
 * **IMPORTANT:** We assume that the smartcontracts will operate as intended per description above, where we will be responsible for delivering the coffee **if and only if** the funds are made available to us (that is, the payment reaches our wallet). Therefore, the buyer must be aware and willing to accept the risks involved with blockchain and smart contract security. We accept **help auditing the smartcontracts** or **donations** to the following address: **0xasldkfjasldkfjlkjskldf**
 * A dashboard is provided to keep track of the funding status. Even it it fails, the information can still be queried through Ethereum blockchain.

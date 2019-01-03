@@ -1,0 +1,5 @@
+baseURL = "http://crowdtainer.io/"
+languageCode = "en-us"
+title = "Crowdtainer"
+theme = "ananke"
+background_color_class = "bg-blue"

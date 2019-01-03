@@ -2,38 +2,30 @@
 #title: "transfer(delicious_coffee, positive_social_impact)"
 featured_image: '/images/CoffeePour.jpg'
 #description: "The logic-driven coffee"
-title: "Did you know?"
+title: "Crowdfunding a better coffee for a better world."
 ---
 
-### Specialty coffee is more than ever seen as a commodity, and consumers are happy to pay good money for a good cup of coffee. In the other end of the coffee chain, an increasing number of farmers are paid ever less for their product and many live in near poverty.
+## Enjoy a *different* coffee this year.
 
-The difficulty of coordinating producers of raw materials with buyers of a finished products creates a demand and fertile ground for middleman that act basically as a coordinator. The problem is aggravated due to the profit advantages in keeping information of buyers, sellers and prices secret, which in turn makes the marketplace more like an illiquid series of gatekeepers instead of a bazaar full of competitors. 
+Most coffee sold are composed of a mix of several coffee types and sources, causing the root characteristics and unique flavours typical of a region to disappear.
+**Discover the original flavours and the experiences a cup of coffee can bring**.
 
-### The establishment of monopolies and middle-man makes opportunity no longer equal for everyone and favours just a few established players.
+## Make a *positive* impact to the world.
 
-What is the option left to small farmers (which collectively produce the majority of the traded coffee) ? You guessed: sell ultra cheap to local traders, which sells to bigger cooperatives, which sells to another trader in the importing country, which in turn sells to coffee shops and customers.
+The coffee chain is so full of middle-man, that the ones putting hard work to make it happen are the least rewarded. What if we can bring like-minded people together to revert the situation?
 
-{{< figure src="/images/TanzaniaValueChain.png" title="Coffee Price variation from farm to cup" >}}
+## We believe in a more *responsible* way to source coffee.
 
-Some call this **the coffee paradox**: Small coffee producers aren’t able to get the best value for their product because there is no connection between the final customer and the farm.
+One thing is what someone tells us through a label or certificate, another is to be able to *know* the impact the choices we make as a consumer does. Each package bought through crowdtainer has a traceable history, made available through the internet.
 
+## Enter Crowdtainer - Crowdfunding a container
 
-{{< figure src="/images/coffee-supply-chain.jpg" title="Coffee supply chain" >}}
+It would be impossible to reach the goals above, and yet trade specialy coffee with small farmers because economies of scale is needed: sending anything less than one coffee container overseas is not economically sustainable.
 
-Consumers on the other hand, generally don’t have as much variety of choices because their only available options are those provided by the existing coffee elite groups / traders.
+With the help of programmable money and people like you, we can finally make it happen: if the funding goal **is not** reached, the money can be released from the smart contract back to the buyer.
 
-Some well intentioned roasters, knowing about this problem, hand-pick farmers (while taking a lot of risk), to at least do some social good through a more **direct trade** approach. But unfortunately, that is mostly the exception than the rule, since the approach doesn't really scale.
+If the funding goal **is** reached, the coffee is considered sold and production kicks in.
 
-In the end, farmers are poorly paid, and are not incentivized to produce great coffee (because it won't be well paid for anyways), and yet such coffee is sold at a premium price to you. So, out of the price you pay, almost nothing ends up returning to the people that actually does the hard work at the farms.
+link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif
 
-### A liquid market place where vital information (such as volume, reputation, and price) can flow freely, is needed.
-
-This project is an attempt to redistribute power, by taking advantage of programmable money to establish such connections.
-
-The picture below was taken on 23rd December 2018 from our family's farm:
-
-{{< figure src="/images/Coffee_grains_20181223.jpg" title="The first coffee grains are starting to develop for 2019's harvest" >}}
-
-If you **feel compelled enough as we do**, the next crop will be different from all the others: instead of being sold to local traders, the beans you see above will be sold through a community of people like you who cares about what they drink, and all the people involved in the process.
-
-[[ACTION BUTTON]]
+[[LEARN MORE BUTTON]] OR [[BUY COFFEE BUTTON]]
