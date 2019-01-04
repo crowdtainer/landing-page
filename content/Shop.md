@@ -1,6 +1,5 @@
 ---
 title: "Shop"
-#featured_image: '/images/Sunset.jpg'
 featured_image: '/images/HandAndCoffee.jpg'
 type: page
 menu:

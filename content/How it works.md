@@ -8,9 +8,9 @@ menu:
 
 ---
 
-#### When you buy coffee *through a big retailer*, what happens is most of your money goes to monopolies and middle man. A tiny fraction (<10%) goes to the farmers and the people that put the hard work to make it happen.
+#### When you buy coffee *through a big retailer*, most of your money goes to monopolies and middle man. A tiny fraction goes to the farmers and the people that put the hard work to make it happen.
 
-By purchasing coffee *through Crowdtainer instead*, **a bigger** part of your money goes to **producing the coffee itself** (the farmers and the coffee processing units), and another part will **fund development towards a more open and fair marketplace for coffee trade**:
+By purchasing coffee *through Crowdtainer instead, most of the money goes to **producing the coffee itself** (the farmers and the coffee processing units), and another part will help **fund development towards a more open and fair marketplace for coffee trade**:
 
 * The farmers get **better prices** for the coffee they produce
 * Consumers pay the similar or better prices compared to their local market

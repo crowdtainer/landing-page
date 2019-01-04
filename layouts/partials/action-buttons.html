@@ -1,0 +1,9 @@
+{{ with .Params.action_buttons }}
+{{ range $elem_index, $elem_val := . }}
+<div class="flex flex-column-m w-100">
+   <a href="{{ index $elem_val 1 }} " 
+      class="f4-5 link dim br2 ph3 pv2 mb2 dib center">
+     {{ index $elem_val 0 }} ></a>
+  </div>
+{{ end }}
+{{ end }}

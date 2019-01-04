@@ -1,9 +1,10 @@
 ---
 date: 2017-04-09T10:58:08-04:00
 #title: "transfer(delicious_coffee, positive_social_impact)"
-title: "The struggle of the coffee farmers"
+title: "The coffee middle man"
 #tags: ["Did you know"]
-#description: "The logic-driven coffee"
+#featured_image: '/images/CoffeePour.jpg'
+description: "The logic-driven coffee"
 ---
 
 ### Specialty coffee is more than ever seen as a commodity, and consumers are happy to pay good money for a good cup of coffee. In the other end of the coffee chain, farmers are paid ever less for their product and many live in poverty.
