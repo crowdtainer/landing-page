@@ -1,12 +1,49 @@
 {{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
 {{ define "main" }}
+<!-- -->
+  <div class="flex-l center bg-black-05">
+    <article class="center cf pv5 ph3 ph4-ns mw7">
+      <p class="nested-copy-line-height helvetica lh-copy f2 nested-links nested-img ma0 fw9">
+          Enjoy a <em>different</em> coffee this year.
+      </p>
+      <br />
+      <p class="nested-copy-line-height helvetica lh-copy f4 nested-links nested-img ma1 black-70 pt3">
+          Did you know that most coffee sold on retail is composed of a mix of several coffee types and sources, causing root characteristics and unique flavours typical of a region to disappear? <b>Discover the original flavours and the experiences a cup of coffee can bring.</b>
+      </p>
+    </article>
+  </div>
+<!-- -->
+  <div style="background-image:url(/images/basket-close-up.jpg); " 
+ class="cover bg-top">
+<div class="bg-black-70 ">
+    <article class="center cf pv5 ph3 ph4-ns mw7" >
+      <p class="nested-copy-line-height helvetica center lh-copy f2 near-white nested-links nested-img ma0 fw9 pt6">
+          Make a <em>positive</em> social impact.
+      </p>
+      <br />
+      <p class="nested-copy-line-height helvetica lh-copy f4 near-white nested-links nested-img ma1 pt3">
+          No solution has been found for today’s unfair coffee supply chain: the ones putting hard work are still the least rewarded - middle men captures almost all the value.
+          <br/><br/>
+          What if we can bring like-minded people together to revert the situation?
+      </p>
+    </article>
+</div>
+  </div>
+<!-- -->
+  <div class="flex-l center bg-orange">
+    <article class="center cf pv5 ph3 ph4-ns mw7">
+      <p class="nested-copy-line-height helvetica center lh-copy f2 nested-links nested-img ma0 fw9">
+          We believe a more <em>responsible</em> way to source coffee is possible.
+      </p>
+      <br />
+      <p class="nested-copy-line-height helvetica lh-copy f4 nested-links nested-img ma1 pt3">
+          Did you ever wonder what a certificate label really means, if anything? Instead of wondering, we should be able to <b>see</b> the impact the choices we make as consumers has. Each package bought through crowdtainer has history and a closer connection to its origin.
+      </p>
+    </article>
+  </div>
+<!--  -->
   <div class="flex-l mt2 mw8 center">
     <article class="center cf pv5 ph3 ph4-ns mw7">
-      <header>
-        <p class="f6 b helvetica tracked">
-          {{ humanize .Section | upper  }}
-        </p>
-      </header>
       <div class="nested-copy-line-height helvetica-neue lh-copy f4 nested-links nested-img mid-gray">
         {{ .Content }}
         <br />
