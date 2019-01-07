@@ -22,7 +22,7 @@ No one has yet been able to find a solution for today's **unfair coffee chain**:
 
 Did you ever wonder what a certificate label really means, if anything? Instead of wondering, we should be able to **see** the impact the choices we make as consumers has. Each package bought through crowdtainer has history and a closer connection to its origin. -->
 
-## Join Crowdtainer - Crowdfunding containers
+## Meet Crowdtainer - Crowdfunding containers
 
 It would be impossible to reach such goals and yet buy specialy coffee from small farmers, because economies of scale is needed: sending anything less than one coffee container overseas is not economically sustainable.
 

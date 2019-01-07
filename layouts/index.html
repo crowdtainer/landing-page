@@ -1,48 +1,107 @@
 {{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
 {{ define "main" }}
+<div class = "tc c-helvetica-neue ma3-l">
 <!-- -->
-  <div class="flex-l center bg-black-05">
+  <div class="flex-l pt5 pb4">
     <article class="center cf pv5 ph3 ph4-ns mw7">
-      <p class="nested-copy-line-height helvetica lh-copy f2 nested-links nested-img ma0 fw9">
-          Enjoy a <em>different</em> coffee this year.
+      <p class="nested-copy-line-height lh-copy f2 nested-links nested-img ma0 fw9">
+          Enjoy a <em class="dark-green">unique</em> coffee this year.
       </p>
       <br />
-      <p class="nested-copy-line-height helvetica lh-copy f4 nested-links nested-img ma1 black-70 pt3">
-          Did you know that most coffee sold on retail is composed of a mix of several coffee types and sources, causing root characteristics and unique flavours typical of a region to disappear? <b>Discover the original flavours and the experiences a cup of coffee can bring.</b>
-      </p>
+      <h2 class="mw7 fw3 f4 lh-copy mt0 mb3">
+      <!-- <p class="nested-copy-line-height lh-copy f4 nested-links nested-img ma1 black-70 pt3"> -->
+          Most coffee sold on retail is a mix of several coffee types and sources, causing unique flavours typical of a region to disappear.
+          <br /><br />
+          <h2>How about discovering the original flavours and experiences a cup of coffee can bring?</h2>
+      <!-- </p> -->
+      </h2>
     </article>
   </div>
 <!-- -->
-  <div style="background-image:url(/images/basket-close-up.jpg); " 
+  <div style="background-image:url(/images/basket-close-up.jpg);" 
  class="cover bg-top">
-<div class="bg-black-70 ">
-    <article class="center cf pv5 ph3 ph4-ns mw7" >
-      <p class="nested-copy-line-height helvetica center lh-copy f2 near-white nested-links nested-img ma0 fw9 pt6">
-          Make a <em>positive</em> social impact.
+<div class="bg-white-10 pb7">
+    <article class="cf pv5 ph3 ph4-ns" >
+      <div class="fr-l bg-white-90 b--near-white mw6-5">
+      <p class="ma4 pt3 nested-copy-line-height lh-copy f2 nested-links nested-img fw6 near-black">
+          Make a <em class="orange">positive</em> social impact.
       </p>
-      <br />
-      <p class="nested-copy-line-height helvetica lh-copy f4 near-white nested-links nested-img ma1 pt3">
-          No solution has been found for today’s unfair coffee supply chain: the ones putting hard work are still the least rewarded - middle men captures almost all the value.
-          <br/><br/>
-          What if we can bring like-minded people together to revert the situation?
-      </p>
+      <!-- <p class="nested-copy-line-height lh-copy f4 near-white nested-links nested-img ma1 pt3"> -->
+      <h2 class="tl fw3 f4 ma4 lh-copy mt0 mb3 pt2 ">
+          No solution has been found for today’s <b class="fw5">unfair</b> coffee <b class="fw5">supply chain</b>: the ones putting down hard work are still the least rewarded, while <b class="fw5">middle-men</b> captures almost all the value.
+          <br/>
+      </h2>
+         <h3 class="ma4 pb4">What if we can bring like-minded people together to revert the situation?</h3> 
+      <!-- </p> -->
+    </div>
     </article>
 </div>
   </div>
 <!-- -->
-  <div class="flex-l center bg-orange">
-    <article class="center cf pv5 ph3 ph4-ns mw7">
-      <p class="nested-copy-line-height helvetica center lh-copy f2 nested-links nested-img ma0 fw9">
-          We believe a more <em>responsible</em> way to source coffee is possible.
+<article class="bb b--black-10 pt6 pb5">
+    <div class="db pv4 ph3 ph0-l no-underline dark-gray ">
+      <div class="flex flex-column-m ">
+        <!-- text -->
+        <div class="fl w-100-ns pt2-m ma3-m pr4-m pl4-l">
+          <h1 class="pt4 tl center mw6 f2 fw3 mt0 lh-title">
+            We believe a more <em class="dark-red">responsible</em> way to source coffee is possible.
+          </h1>
+        </div>
+        <!-- image -->
+         <div class="pr4-ns mb3 mb3-ns w-80-l ma4 pr6-l">
+      <h2 class="tl fw3 f4 lh-copy mt0">
+              Did you ever wonder what a certificate label really means, if anything? 
+              Instead of wondering, we should be able to see the impact the choices we make as consumers has. 
+              </h2>
+              <h3 class="tl center mw8-l ma4 pb4"> 
+              What if for each coffee package we could lookup its history and make a closer connection to its origin?
+              </h3>
+            <!-- <img src="/images/ETH_DAI.png" class="db"> -->
+          </div> 
+      </div>
+    </div>
+  </article>
+  <!-- -->
+  <div class="flex-l center bg-near-black pt5 pb5">
+      <article class="center cf pv5 ph3 ph4-ns mw7">
+          <p class="nested-copy-line-height white center lh-copy f2 nested-links nested-img ma0 fw8 pb4">
+              Chicken-egg problem.
+          </p>
+          <h2 class="mw7 fw3 white f4 lh-copy mt0 mb3">
+        <!-- <p class="nested-copy-line-height white lh-copy f4 nested-links nested-img ma1 pt3"> -->
+Unfortunately, it would be impossible to reach such goals and buy specialty coffee from small farmers without economies of scale: sending anything less than one coffee container overseas is not economically sustainable.
+</h2>
+        <!-- </p> -->
+      </article>
+    </div>
+    <!--  -->
+  <div class="pt5 flex-l center ">
+  <article class="center ph3 ph5-ns tc br2 pv5  dark-green mb5">
+      <h1 class="fw6 f3 f2-ns lh-title mt0 mb3">
+       Meet Crowdtainer.
+      </h1>
+      <h2 class="mw7 fw3 f4 lh-copy mt0 mb3 pt4">
+          Crowdtainer uses Ethereum smart contracts to <b>crowdfund</b> a minimum of one <b>container</b> such that given enough people, payment flows directly to the coffee producers - or returns to buyers.
+      </h2>
+      <p class="pt4 pb3 fw1 f5 mt0 mb3">
+        Join us on this journey.
       </p>
-      <br />
-      <p class="nested-copy-line-height helvetica lh-copy f4 nested-links nested-img ma1 pt3">
-          Did you ever wonder what a certificate label really means, if anything? Instead of wondering, we should be able to <b>see</b> the impact the choices we make as consumers has. Each package bought through crowdtainer has history and a closer connection to its origin.
-      </p>
+      <div>
+        <a class="f5 br-pill bg-dark-green no-underline washed-green ba b--dark-green grow pv2 ph3 dib mr3"
+          href="/shop">
+         Buy Coffee
+        </a>
+        <div class="pr3 di">OR</div>
+        <a class="f5 br-pill dark-green no-underline ba grow pv2 ph3 dib"
+          href="/how-it-works">
+          Learn More
+        </a>
+      </div>
     </article>
-  </div>
+    </div>
+
 <!--  -->
-  <div class="flex-l mt2 mw8 center">
+  <!-- <div class="flex-l mt2 mw8 center">
     <article class="center cf pv5 ph3 ph4-ns mw7">
       <div class="nested-copy-line-height helvetica-neue lh-copy f4 nested-links nested-img mid-gray">
         {{ .Content }}
@@ -50,5 +109,8 @@
         {{- partial "action-buttons.html" . -}}
       </div>
     </article>
+  </div> -->
+  <!--  -->
   </div>
+            <img src="/images/hands.png" class="center db mw5">
 {{ end }}
