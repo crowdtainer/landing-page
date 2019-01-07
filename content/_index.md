@@ -6,7 +6,10 @@ featured_image: '/images/roasted-coffee.jpg'
 action_buttons:
     learnMore: ["How it works", "/how-it-works"]
     buyNow: ["Buy Now", "/shop/"]
-title: "Crowdfunding a better coffee for a better world."
+#title: "Crowdfunding a better coffee for a better world."
+#title: "Join the first specialty coffee sale crowdfunded by Ethereum smart contracts."
+title: "Crowdtainer"
+description: "The first Specialty Coffee sale driven by Ethereum smart contracts."
 ---
 
 <!-- ## Enjoy a *different* coffee this year.
