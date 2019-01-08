@@ -8,7 +8,9 @@ menu:
   main: {}
 ---
 
-Although our vision is to eventually bootstrap an open marketplace for farmers, roasters, and customers to find each other, we need to take one step at a time and find out if programmable money can work for our own farms first. Here's a chance to learn more about them and where the product you will be buying comes from. 
+## Meet your farmers
+
+> Although our vision is to eventually bootstrap an open marketplace for farmers, roasters, and customers to find each other, we need to take one step at a time and find out if programmable money can work for our own farms first. Here's a chance to learn more about them and where the product you will be buying comes from. 
 
 ### Agua Limpa Farm
 

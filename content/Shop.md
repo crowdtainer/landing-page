@@ -7,12 +7,13 @@ menu:
 
 ---
 
-Join the first coffee production powered by programmable money.
+## Join the first roasted coffee sale powered by programmable money.
 
-The Crowdtainer funding starts on XX/XX/2019 and finishes on XX/XX/2019.
+The funding starts on XX/XX/2019 and finishes on XX/XX/2019.
 
-### Minimum Requirements:
+#### Minimum Requirements:
 - Web3 enabled browser (e.g.: Chrome Metamask extension)
+- Participation implies acceptance of our Terms of Agreements (TODO: add link)
 
 ### [Add button to crowdtainer dashboard]
 

@@ -21,3 +21,8 @@
     -webkit-box-decoration-break: clone;
     box-decoration-break: clone
 }
+
+img.img50-50 {
+      max-width:50px;
+      max-height:50px;
+}

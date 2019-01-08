@@ -1,17 +1,24 @@
 ---
-#featured_image: '/images/BuyHappiness.jpg'
+featured_image: '/images/BuyHappiness.jpg'
 #description: "You can't buy happiness but you can buy coffee and that's pretty close :)"
-description: "...................."
+description: "Challenge yourself by challenging a friend."
 title: "Referral"
 #{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
-#featured_image: ''
+featured_image: '/images/ETH_DAI.png'
 menu:
   main: {}
 ---
 
-Since the first crowdtainer wave will rely on word-of-mouth only, we added a **referral program** to the smart contract:
+# <div class="tc">Sharing is caring.</div>
+<br /> 
+<img class="img50-50 center" src="/images/DAI_120.png">
+#### <div class="tc">Invite friends and earn DAI.</div>
 
-- Upon a purchase, a coupon / referral code is generated
-- Each subsequent purchase made using the referral code will provide a 10% discount for the buyer, and 10% of the purchase value goes to the referral code owner.
+A referral program is included in the Crowdtainer smart contract:
 
-The discounts and rewards are only effective if the minimum funding goal is reached successfully.
+* Upon a coffee purchase, a coupon / referral code is generated.
+* Each purchase made using the referral code will provide:
+  *  **10% discount for the new purchase**
+  *  **10% of the purchase value goes to the referral code owner.**
+
+*Note: The discounts and rewards are only effective if the minimum funding goal is reached.* 
