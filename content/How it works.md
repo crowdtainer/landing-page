@@ -1,22 +1,26 @@
 ---
 title: "How it works"
-description: "Most of the coffee produced in the world is hand-picked and cultivated by small farmers. Yet, its markets are moved by a few huge companies."
+description: "A direct link between consumer and producer."
+# description: "Most of the coffee produced in the world is hand-picked and cultivated by small farmers. Yet, its markets are moved by a few huge companies."
 featured_image: '/images/CoffeeBags.jpg'
 type: page
 menu:
   main: {}
 
 ---
+## Why bother?
 
-### Initial Coffee Offering
+When you buy coffee *through a retailer*, most of your money goes to monopolies and middle men. A tiny fraction goes to the farmers and the people that put the hard work to make it happen.
 
-When you buy coffee *through a retailer*, most of your money goes to monopolies and middle man. A tiny fraction goes to the farmers and the people that put the hard work to make it happen.
+> * add some pie charts here
 
-By purchasing coffee *through Crowdtainer instead*, most of the money goes to **producing the coffee itself** (the farmers and the coffee processing units) and fund development towards a **more open and fair marketplace for coffee trade**:
+By purchasing coffee *through Crowdtainer instead*, most of the money goes to **producing the coffee itself** (the farmers and the coffee processing units) and incentivising development towards a **more open and fair marketplace for coffee trade**:
+
+> * and here 
 
 * The farmers get **better prices** for the coffee they produce
 * Consumers pay the similar or better prices compared to their local market
-* Both parties benefit from a **closer relationship** and **sharing of values** (e.g. environmental responsibility, human care)
+* Both parties benefit from a **closer relationship** and **sharing of values** (e.g. environmental responsibility, human care, transparency and traceability)
 
 #### The *happy* path:
 
@@ -30,7 +34,7 @@ By purchasing coffee *through Crowdtainer instead*, most of the money goes to **
 1. Choose the amount and roast level
 2. Pay with DAI token
 3. The funding goal is *not* reached ❌
-4. Claim your DAI tokens back in full.
+4. Claim your DAI tokens back.
 
 ### What you need to know:
 
@@ -40,13 +44,14 @@ By purchasing coffee *through Crowdtainer instead*, most of the money goes to **
 
 * The delivery address is **never** saved on the Blockchain or made public anyhow: we follow **GDPR** rules, and collect only the information needed for delivery purposes. Such information is sent off-chain in encrypted form to our centralised severs, and will be destroyed once the item is shipped. 
 
-* 1 DAI approximates 1 US Dolar. We use **DAI** instead of **Ether** (or bitcoin for that matter) to avoid volatility. The *_DAI_* is a USD-pegged stablecoin token that exists on the Ethereum network.
-
-* A **dashboard** is provided to keep track of the funding status (although the information can be queried directly on the Ethereum blockchain).
+* 1 DAI approximates 1 US Dolar. We use **DAI** instead of **Ether** (or any other cryptocurrency for that matter) to avoid volatility. The *_DAI_* is a USD-pegged stablecoin token that exists on the Ethereum network.
 
 * **IMPORTANT:** We assume that the smart contracts will operate as intended per description above, where we will be responsible for delivering the coffee **if and only if** the funds are made available to us (that is, the payment reaches our ethereum account). Therefore, the buyer must be aware and willing to accept the risks involved with blockchain, smart contract security, and any other unexpected risks of bootstrapping a new sale channel.
 
-We accept **help with auditing the smartcontracts** or **donations** to the following address: **0xasldkfjasldkfjlkjskldf**
+<!-- We accept **help with auditing the smartcontracts** or **donations** to the following address: **0xasldkfjasldkfjlkjskldf** -->
+
+
+
 
 <!-- > ### The challange is to create a more efficient trade than what exists today. Cutting the middle-men means farmers selling directly to coffee drinkers or roasters. -->
 

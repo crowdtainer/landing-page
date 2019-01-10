@@ -1,11 +1,11 @@
 ---
-description: "A bit of background about our initial coffee offering"
+description: "Get to know who we are how we take good care of your coffee."
 featured_image: '/images/FarmView.jpg'
 title: "Farmers"
 #{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 #featured_image: ''
-menu:
-  main: {}
+# menu:
+#   main: {}
 ---
 
 ## Meet your farmers
