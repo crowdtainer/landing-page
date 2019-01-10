@@ -19,14 +19,8 @@ Located at xxx KM above sea level...
 
 ### Santa Inácia Farm
 
-{{< figure src="/images/Bike.jpg" title="View from Santa Inácia's home window" >}}
+<!-- {{< figure src="/images/Bike.jpg" title="View from Santa Inácia's home window" >}} -->
 
 [[Add details ]]
 
 Write about certifications, and FDA compliance.
-
-### Development 
-
-Crowdtainer emerged out of a long-standing problem our family has had, combined with the motivation to make a positive impact through technology.
-
-Crowdtainer emerged out of ion of making a positive impact

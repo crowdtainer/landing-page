@@ -1,18 +1,22 @@
 {{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
 {{ define "main" }}
-  <div class="flex-l mt2 mw8 center">
-    <article class="center cf pv5 ph3 ph4-ns mw7">
-      <header>
-        {{ if .Params.featured_image }}
-        {{ else }}
-        <h1 class="f2">
-          {{ .Title }}
-        </h1>
-        {{ end }}
-      </header>
-      <div class="nested-copy-line-height lh-copy f4 nested-links nested-img">
-        {{ .Content }}
-      </div>
-    </article>
+  <div class="flex-l mt1 mw8 center tc c-helvetica-neue ma3-l">
+      <article class="center cf pv5 ph3 ph4-ns mw8">
+          <h1 class="f2 f1-l fw2  mb0 lh-title">
+              The first roasted coffee sale powered by <em class="dark-green">programmable money.</em>
+          </h1>
+          <br />
+              <h2 class="tc fw2 f3  mt3 mb4">Crowdfunding starts on XX/XX/2019 and finishes on XX/XX/2019.</h3>
+          <div class="tc-l mt3 mt4-m mt5-l ph3">
+              <a class="f6 no-underline grow dib v-mid bg-blue white ba b--blue ph3 pv2 mb3" href="/">Crowdtainer Dashboard</a>
+            </div>
+          <h2 class="tl fw4 f4 lh-copy mt0 mb3">
+              Minimum requirements:
+          </h2>
+          <h4 class="tl">
+            - Web3 enabled browser (e.g.: Chrome Metamask extension) <br />
+            - Participation implies acceptance of our Terms of Agreements (TODO: add link)
+          </h4>
+        </article>
   </div>
 {{ end }}

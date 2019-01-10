@@ -5,8 +5,8 @@ description: "Challenge yourself by challenging a friend."
 title: "Referral"
 #{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 featured_image: '/images/ETH_DAI.png'
-menu:
-  main: {}
+# menu:
+#   main: {}
 ---
 
 # <div class="tc">Sharing is caring.</div>

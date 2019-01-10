@@ -8,7 +8,7 @@ menu:
 
 ---
 
-### **I**nitial **Coffee** **O**ffering
+### Initial Coffee Offering
 
 When you buy coffee *through a retailer*, most of your money goes to monopolies and middle man. A tiny fraction goes to the farmers and the people that put the hard work to make it happen.
 
