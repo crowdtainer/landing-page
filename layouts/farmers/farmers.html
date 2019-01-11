@@ -1,24 +1,171 @@
-{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "header" }}{{ partial "light-page-header.html" . }}{{ end }}
 {{ define "main" }}
-  <div class="flex-l mt1 mw8 center tc c-helvetica-neue ma3-l">
-      <article class="center cf pv5 ph3 ph4-ns mw8">
-          <h1 class="f2 f1-l fw2  mb0 lh-title">
-              The first roasted coffee sale powered by <em class="dark-green">programmable money.</em>
-          </h1>
-          <br />
-              <h2 class="tc fw2 f3  mt3 mb4">Crowdfunding starts on XX/XX/2019 and finishes on XX/XX/2019.</h3>
-          <div class="tc-l mt3 mt4-m mt5-l ph3">
-              <a class="f6 no-underline grow dib v-mid bg-blue white ba b--blue ph3 pv2 mb3" href="/">Crowdtainer Dashboard</a>
-            </div>
-          <h2 class="tl fw4 f4 lh-copy mt0 mb3">
-              Minimum requirements:
-          </h2>
-          <h4 class="tl">
-            - Web3 enabled browser (e.g.: Chrome Metamask extension) <br />
-            - Participation implies acceptance of our Terms of Agreements (TODO: add link)
-          </h4>
-        </article>
-        <br />
-  </div>
-        {{ .Content }}
+<!-- -->
+<div class="mt1 tc c-helvetica-neue ma3-l">
+    <!-- Fazenda Santa Inacia-->
+    <div class="flex-l pt5 pb4">
+        <article class="center cf pv4 ph3 ph4-ns mw7">
+            <p class="tl nested-copy-line-height lh-copy f2 nested-links nested-img ma0 fw3">
+                Meet your <b class="green">farmers</b>.
+            </p>
+            <br />
+            <h2 class="tl mw7 fw3 f4 lh-copy mt0 mb3">
+                <!-- <p class="nested-copy-line-height lh-copy f4 nested-links nested-img ma1 black-70 pt3"> -->
+                Although our vision is to eventually bootstrap an open marketplace for farmers, roasters, and customers
+                to find each other, we need to take one step at a time and find out if programmable money can work for
+                our own farms first. Here's a chance to learn more about them and the history behind this cup of
+                coffee.
+                <!-- <br /><br /> -->
+                <!-- <h3 class="mw6 center">Our farms are located in a tiny town of Pedralva, MG (South of Minas Gerais), Brazil.</h3> -->
+                <!-- </p> -->
+            </h2>
+            <br />
+            <p class="nested-copy-line-height lh-copy f1 nested-links nested-img ma4 fw3">
+                <b class="green">Santa Inacia Farm</b>
+            </p>
+    </div>
+    </article>
+    <!--  -->
+    <div style="background-image:url(/images/farms/santa_inacia/rosie.jpg);" class="cover bg-top">
+        <div class="bg-black-20 pb7">
+            <article class="cf pv5 ph3 ph4-ns">
+                <div class="fr-l bg-black-70 mw6-5">
+                    <p class="ma4 pt3 nested-copy-line-height lh-copy f3 nested-links nested-img fw3 green">
+                        Rosiane Alencar and David Boyko
+                    </p>
+                    <!-- <p class="nested-copy-line-height lh-copy f4 near-white nested-links nested-img ma1 pt3"> -->
+                    <h2 class="tl fw2 f3 ma4 lh-copy mt0 mb3 pb3 near-white">
+                        What used to be a sugar cane plantation gave
+                        origin to an extremely healthy soil.
+                        <br /><br />
+                        The favorable climate combined with altitude from 1100 to 1450 meters above sea level makes the
+                        right combination to cultivate and produce a very special coffee.
+                    </h2>
+                    <!-- </p> -->
+                </div>
+            </article>
+        </div>
+    </div>
+    <!-- -->
+    <div class="cf dt-l w-100 pv0">
+        <div class="dtc-l v-mid f6 f5-m f4-l">
+            <p class=" pv2-l tl pb4">
+                <h2 class="center f4-m fw3-m fw3 f3 lh-copy mw6 l ma4 pa1">
+                    Equipped with dry mill, screen size, weight, and color sorting machines, coffee is carefully hand
+                    picked, dried, and processed at the farm itself - all contributing to the <b class="red">freshness
+                    </b> and <b class="red">quality</b> of the coffee bean.
+                    <!-- The favorable climate combined with altitude  of 1250 to 1450 meters above sea level and topography makes the  right combination to cultivate and produce special coffee. -->
+                </h2>
+            </p>
+        </div>
+        <div class="dtc-l v-mid mw6 pr0-l pt2-m ma3-m pr4-m pl0-l">
+            <img src="/images/farms/santa_inacia/farm_top_view.jpg">
+        </div>
+    </div>
+    <!-- -->
+    <div class="cf dt-l w-100 pv0">
+        <div class="dtc-l v-mid mw6 pr0-l pt2-m ma3-m pr4-m pl0-l">
+            <img src="/images/farms/santa_inacia/estufa.jpg">
+        </div>
+        <div class="dtc-l v-mid f6 f5-m f4-l ">
+            <p class=" pv2-l tl pb4">
+                <h2 class="center fw3 f3 lh-copy mw6 l ma4">
+                    Greenhouses help dry the coffee using the sun's heat. Despite slower, it is more gentle and
+                    therefore helps the beans to keep their <b class="red"></b>natural sweet taste</b>.
+                </h2>
+            </p>
+        </div>
+    </div>
+    <div class="cf dt-l w-100 pv0">
+        <div class="dtc-l v-mid f6 f5-m f4-l ">
+            <p class=" pv2-l tl pb4">
+                <h2 class="center fw3 f3 lh-copy mw6 l ma4">
+                    Coffee of kinds Red Catuai, Yellow Catuai, Catucai, Mundo Novo and Yellow Bourbom are available in
+                    this farm, employing over 50 people.
+                    <!-- The favorable climate combined with altitude  of 1250 to 1450 meters above sea level and topography makes the  right combination to cultivate and produce special coffee. -->
+                </h2>
+            </p>
+        </div>
+        <div class="dtc-l v-mid mw6 pr0-l pt2-m ma3-m pr4-m pl0-l">
+            <img src="/images/farms/santa_inacia/red_beans_3.jpg">
+        </div>
+    </div>
+    <!-- Fazenda Agua Limpa-->
+    <div class="flex-l pt5 pb4">
+        <article class="center cf pv4 ph3 ph4-ns mw7">
+                <p class="nested-copy-line-height lh-copy f1 nested-links nested-img ma4 fw3">
+                        <b class="green">Agua Limpa Farm</b>
+                    </p>
+    </div>
+    </article>
+    <!--  -->
+    <div style="background-image:url(/images/farms/santa_inacia/rosie.jpg);" class="cover bg-top">
+        <div class="bg-black-20 pb7">
+            <article class="cf pv5 ph3 ph4-ns">
+                <div class="fr-l bg-black-70 mw6-5">
+                    <p class="ma4 pt3 nested-copy-line-height lh-copy f2 nested-links nested-img fw3 green">
+                        Fazenda Santa Inacia
+                    </p>
+                    <!-- <p class="nested-copy-line-height lh-copy f4 near-white nested-links nested-img ma1 pt3"> -->
+                    <h2 class="tl fw2 f3 ma4 lh-copy mt0 mb3 pb3 near-white">
+                        Run by Rosiane Alencar Boyko and David Boyko, what used to be a sugar cane plantation gave
+                        origin
+                        to an extremely healthy soil.
+                        <br /><br />
+                        The favorable climate combined with altitude from 1100 to 1450 meters above sea level makes the
+                        right combination to cultivate and produce a very special coffee.
+                    </h2>
+                    <!-- </p> -->
+                </div>
+            </article>
+        </div>
+    </div>
+    <!-- -->
+    <div class="cf dt-l w-100 pv0">
+        <div class="dtc-l v-mid f6 f5-m f4-l">
+            <p class=" pv2-l tl pb4">
+                <h2 class="center f4-m fw3-m fw3 f3 lh-copy mw6 l ma4 pa1">
+                    Equipped with dry mill, screen size, weight, and color sorting machines, coffee is carefully hand
+                    picked, dried, and processed at the farm itself - all contributing to the <b class="red">freshness
+                    </b>
+                    and <b class="red">quality</b> of the coffee bean.
+                    <!-- The favorable climate combined with altitude  of 1250 to 1450 meters above sea level and topography makes the  right combination to cultivate and produce special coffee. -->
+                </h2>
+            </p>
+        </div>
+        <div class="dtc-l v-mid mw6 pr0-l pt2-m ma3-m pr4-m pl0-l">
+            <img src="/images/farms/santa_inacia/farm_top_view.jpg">
+        </div>
+    </div>
+    <!-- -->
+    <div class="cf dt-l w-100 pv0">
+        <div class="dtc-l v-mid mw6 pr0-l pt2-m ma3-m pr4-m pl0-l">
+            <img src="/images/farms/santa_inacia/estufa.jpg">
+        </div>
+        <div class="dtc-l v-mid f6 f5-m f4-l ">
+            <p class=" pv2-l tl pb4">
+                <h2 class="center fw3 f3 lh-copy mw6 l ma4">
+                    Greenhouses help dry the coffee using the sun's heat. Despite slower, it is more gentle and
+                    therefore
+                    helps the beans to keep their <b class="red"></b>natural sweet taste</b>.
+                </h2>
+            </p>
+        </div>
+    </div>
+    <div class="cf dt-l w-100 pv0">
+        <div class="dtc-l v-mid f6 f5-m f4-l ">
+            <p class=" pv2-l tl pb4">
+                <h2 class="center fw3 f3 lh-copy mw6 l ma4">
+                    Coffee of kinds Red Catuai, Yellow Catuai, Catucai, Mundo Novo and Yellow Bourbom are available in
+                    this
+                    farm, employing about 50 people.
+                    <!-- The favorable climate combined with altitude  of 1250 to 1450 meters above sea level and topography makes the  right combination to cultivate and produce special coffee. -->
+                </h2>
+            </p>
+        </div>
+        <div class="dtc-l v-mid mw6 pr0-l pt2-m ma3-m pr4-m pl0-l">
+            <img src="/images/farms/santa_inacia/red_beans_3.jpg">
+        </div>
+    </div>
+</div>
 {{ end }}

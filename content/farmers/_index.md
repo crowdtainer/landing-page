@@ -1,6 +1,8 @@
 ---
-description: "Get to know who we are how we take good care of your coffee."
-featured_image: '/images/FarmView.jpg'
+# description: "Get to know who we are how we take good care of your coffee."
+# description: "Get to know your farmers. And how they take good care your coffee."
+# featured_image: '/images/FarmView.jpg'
+featured_image: '/images/farms/santa_inacia/top_mountain.jpg'
 title: "Farmers"
 #{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 #featured_image: ''

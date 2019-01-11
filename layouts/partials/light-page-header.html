@@ -3,34 +3,22 @@
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   {{ $featured_image := (trim $featured_image "/") | absURL }}
   <header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
-    <div class="pb0-m pb0-l bg-black-60">
+    <div class="pb3-m bg-black-50 vh-60 ">
       {{ partial "site-navigation.html" . }}
-      <div class="tc-l pv5 ph3 ph4-ns">
-        <h1 class="f2 f1-l fw4 white-90 mb0 pa2 lh-title">
+      <div class="tc-l pv6 ph3 ph4-ns">
+          <h2 class="fw3 f3 f2-l white-90 measure-wide-l center lh-copy mt3 mb4 pa2">
           {{ .Title | default .Site.Title }}
-        </h1>
+        <!-- <h1 class="f2 f1-l fw4 white-90 mb0 pa2 lh-title">
+          {{ .Title | default .Site.Title }}
+        </h1> -->
+        </h2>
         {{ with .Params.description  }}
-          <h2 class="fw3 f3 f3-l white-90 measure-wide-l center lh-copy mt3 mb4 pa2">
+        <h1 class="f2 f2-l fw4 white-90 mb0 pa2 lh-title">
+          <!-- <h2 class="fw3 f4 f3-l white-90 measure-wide-l center lh-copy mt3 mb4 pa2"> -->
             {{ . }}
-          </h2>
+          <!-- </h2> -->
+          </h1>
         {{ end }}
-        <h3 class="f5 f5-l fw4 white-90 mb0 pa2 lh-title">
-          Crowdfunding a better coffee for a better world.
-        </h3>
-        <br />
-        <!--  -->
-        <div>
-            <a class="f5 br-pill bg-dark-green no-underline washed-green ba b--dark-green grow pv2 ph3 dib mr3"
-              href="/shop">
-             Buy Coffee
-            </a>
-            <div class="pr3 di white">||</div>
-            <a class="f5 br-pill bg-white dark-green no-underline ba b--white grow pv2 ph3 dib"
-              href="/how-it-works">
-              Learn More
-            </a>
-          </div>
-        <!--  -->
       </div>
     </div>
   </header>

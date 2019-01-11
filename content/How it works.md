@@ -8,15 +8,9 @@ menu:
   main: {}
 
 ---
-## Why bother?
-
 When you buy coffee *through a retailer*, most of your money goes to monopolies and middle men. A tiny fraction goes to the farmers and the people that put the hard work to make it happen.
 
-> * add some pie charts here
-
-By purchasing coffee *through Crowdtainer instead*, most of the money goes to **producing the coffee itself** (the farmers and the coffee processing units) and incentivising development towards a **more open and fair marketplace for coffee trade**:
-
-> * and here 
+By purchasing coffee *through Crowdtainer instead*, since there is no middle men (trade is organized by code), the money goes to **producing the coffee itself** (the farmers and the coffee processing units) and incentivising development towards a **more open and fair marketplace for coffee trade**:
 
 * The farmers get **better prices** for the coffee they produce
 * Consumers pay the similar or better prices compared to their local market
@@ -47,6 +41,8 @@ By purchasing coffee *through Crowdtainer instead*, most of the money goes to **
 * 1 DAI approximates 1 US Dolar. We use **DAI** instead of **Ether** (or any other cryptocurrency for that matter) to avoid volatility. The *_DAI_* is a USD-pegged stablecoin token that exists on the Ethereum network.
 
 * **IMPORTANT:** We assume that the smart contracts will operate as intended per description above, where we will be responsible for delivering the coffee **if and only if** the funds are made available to us (that is, the payment reaches our ethereum account). Therefore, the buyer must be aware and willing to accept the risks involved with blockchain, smart contract security, and any other unexpected risks of bootstrapping a new sale channel.
+
+> * TODO : Add shop button here
 
 <!-- We accept **help with auditing the smartcontracts** or **donations** to the following address: **0xasldkfjasldkfjlkjskldf** -->
 

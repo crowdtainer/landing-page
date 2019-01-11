@@ -1,6 +1,5 @@
 ---
 featured_image: '/images/BuyHappiness.jpg'
-#description: "You can't buy happiness but you can buy coffee and that's pretty close :)"
 description: "Challenge yourself by challenging a friend."
 title: "Referral"
 #{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
