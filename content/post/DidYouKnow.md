@@ -11,7 +11,7 @@ description: "The logic-driven coffee"
 
 The difficulty of coordinating producers of raw materials with buyers of a finished product creates a demand and fertile ground for middleman that act basically as a coordinator. The problem is aggravated due to profit advantages in keeping information of buyers, sellers and prices secret, which in turn makes the marketplace more like an illiquid series of gatekeepers instead of a bazaar full of competitors. This is not exclusive to coffee industry, but more apparent for us due our experience.
 
-### With the establishment of monopolies and middle-man, opportunity is no longer equal for everyone and favours just a few established players - Because of such unequal market power relations, middle-man historically have been able to get a disproportionately high share of the pie.
+### With the establishment of monopolies and middlemen, opportunity is no longer equal for everyone and favours just a few established players - Because of such unequal market power relations, middlemen historically have been able to get a disproportionately high share of the pie.
 
 What is the option left to small farmers - **which collectively produce the majority of the traded coffee** ? You guessed: sell ultra cheap to local traders, which sells to bigger cooperatives, which sells to another trader in the importing country, which in turn sells to coffee shops and customers.
 

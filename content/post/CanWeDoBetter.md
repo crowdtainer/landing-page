@@ -20,11 +20,11 @@ Crowdtainer is an attempt take advantage of programmable money to establish conn
 
 As such, in an attempt to empower the farmers and give more visibility to coffee drinkers, a core part of Crowdtainer is cut out the middlemen who does not add value to the product.
 
-However, the current middle men does play a role today: that of organizing the demand/supply for coffee trading and ensuring quality. Despite unfair to our eyes, the current system does manage the reputation side of things.
+However, the current middlemen does play a role today: that of organizing the demand/supply for coffee trading and ensuring quality. Despite unfair to our eyes, the current system does manage the reputation side of things.
 
 Now, for those unfamiliar, a coffee plantation produces coffee once per year, in a month range that varies with its latitude. 
 
-In Minas Gerais, where Crowdtainer's initial farms are located, harvest generally starts on April, has its peak in July, and by the end of September almost all coffee has been harvested. The reason harvest can take so long is also for the fact that most specialty coffee needs to be hand-picked due the high altitude and steep terrain angles that machines can't reach.
+In Minas Gerais, where Crowdtainer's initial farms are located, harvest generally starts end of May, has its peak in July, and lasts until the end of September, when almost all coffee has been harvested. The reason harvest can take so long is also for the fact that most specialty coffee needs to be hand-picked due the high altitude and steep terrain angles that machines can't reach.
 
 The picture below was taken on 23rd December 2018 from our family's farm.
 

@@ -8,13 +8,6 @@ menu:
   main: {}
 
 ---
-When you buy coffee *through a retailer*, most of your money goes to monopolies and middle men. A tiny fraction goes to the farmers and the people that put the hard work to make it happen.
-
-By purchasing coffee *through Crowdtainer instead*, since there is no middle men (trade is organized by code), the money goes to **producing the coffee itself** (the farmers and the coffee processing units) and incentivising development towards a **more open and fair marketplace for coffee trade**:
-
-* The farmers get **better prices** for the coffee they produce
-* Consumers pay the similar or better prices compared to their local market
-* Both parties benefit from a **closer relationship** and **sharing of values** (e.g. environmental responsibility, human care, transparency and traceability)
 
 #### The *happy* path:
 
@@ -29,6 +22,25 @@ By purchasing coffee *through Crowdtainer instead*, since there is no middle men
 2. Pay with DAI token
 3. The funding goal is *not* reached ❌
 4. Claim your DAI tokens back.
+
+When we buy coffee *through a retailer*, most of the money goes to monopolies and middlemen. A tiny fraction goes to the farmers and the people that put the hard work to make it happen:
+
+<br />
+![alt text](/images/StatusQuo.png "Status Quo")
+<br />
+
+The problem is further aggravated since the middlemen shown above are usually the same conglomerate, for a whole different set of farmers and consumers.
+
+By purchasing coffee *through Crowdtainer instead*, since there is no middlemen (trade is organized by code), the money goes to **producing the coffee itself** (the farmers and the coffee processing units) and incentivising development towards a **more open and fair marketplace for coffee trade**:
+
+<br />
+![alt text](/images/with_crowdtainer.png "With Crowdtainer")
+<br />
+
+* The farmers get **better prices** for the coffee they produce
+* Consumers pay the similar or better prices compared to their local market
+* Both parties benefit from a **closer relationship** and **sharing of values** (e.g. environmental responsibility, human care, transparency and traceability)
+
 
 ### What you need to know:
 
@@ -49,7 +61,7 @@ By purchasing coffee *through Crowdtainer instead*, since there is no middle men
 
 
 
-<!-- > ### The challange is to create a more efficient trade than what exists today. Cutting the middle-men means farmers selling directly to coffee drinkers or roasters. -->
+<!-- > ### The challange is to create a more efficient trade than what exists today. Cutting the middlemen means farmers selling directly to coffee drinkers or roasters. -->
 
 <!-- Shipping coffee overseas (in this first case, from Brazil to Europe) requires volume: it only makes sense if we can sell it to enough people to fill up a container.
 

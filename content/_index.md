@@ -19,7 +19,7 @@ Did you know that most coffee sold is composed of a mix of several coffee types 
 
 ## Make a *positive* social impact.
 
-No one has yet been able to find a solution for today's **unfair coffee chain**: the ones putting hard work to make it happen are still the least rewarded - **middle men captures almost all of its value**. What if we can bring like-minded people together to revert the situation?
+No one has yet been able to find a solution for today's **unfair coffee chain**: the ones putting hard work to make it happen are still the least rewarded - **middlemen captures almost all of its value**. What if we can bring like-minded people together to revert the situation?
 
 ## We believe a more *responsible* way to source coffee is possible.
 
