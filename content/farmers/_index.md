@@ -6,8 +6,11 @@ featured_image: '/images/farms/santa_inacia/top_mountain.jpg'
 title: "Farmers"
 #{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 #featured_image: ''
-# menu:
-#   main: {}
+menu:
+  main: {
+    identifier: "Farmers",
+    weight: -98
+  }
 ---
 
 ## Meet your farmers

@@ -1,7 +1,7 @@
 ---
 date: 2018-04-09T10:58:08-04:00
 #title: "transfer( delicious_coffee, social_impact )"
-title: "2019's Harvest - The first of many to be sold through blockchain?"
+title: "Harvest 2019 - The first of many to be sold through blockchain?"
 author: "Thiago F. Alencar"
 #tags: ["Did you know"]
 #featured_image: '/images/CoffeePour.jpg'

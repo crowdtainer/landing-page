@@ -4,8 +4,12 @@ description: "A direct link between consumer and producer."
 # description: "Most of the coffee produced in the world is hand-picked and cultivated by small farmers. Yet, its markets are moved by a few huge companies."
 featured_image: '/images/CoffeeBags.jpg'
 type: page
+
 menu:
-  main: {}
+  main: {
+    identifier: "How it works",
+    weight: -100
+  }
 
 ---
 
@@ -53,8 +57,6 @@ By purchasing coffee *through Crowdtainer instead*, since there is no middlemen 
 * 1 DAI approximates 1 US Dolar. We use **DAI** instead of **Ether** (or any other cryptocurrency for that matter) to avoid volatility. The *_DAI_* is a USD-pegged stablecoin token that exists on the Ethereum network.
 
 * **IMPORTANT:** We assume that the smart contracts will operate as intended per description above, where we will be responsible for delivering the coffee **if and only if** the funds are made available to us (that is, the payment reaches our ethereum account). Therefore, the buyer must be aware and willing to accept the risks involved with blockchain, smart contract security, and any other unexpected risks of bootstrapping a new sale channel.
-
-> * TODO : Add shop button here
 
 <!-- We accept **help with auditing the smartcontracts** or **donations** to the following address: **0xasldkfjasldkfjlkjskldf** -->
 
