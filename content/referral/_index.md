@@ -14,6 +14,7 @@ menu:
 # <div class="tc">Sharing is caring.</div>
 <br /> 
 <img class="img50-50 center" src="/images/DAI_120.png">
+<!-- ![DAI Symbol](/images/DAI_120.png "DAI symbol") -->
 #### <div class="tc">Invite friends and earn DAI.</div>
 
 A referral program is included in the Crowdtainer smart contract:

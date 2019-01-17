@@ -52,4 +52,4 @@ If you **feel compelled enough** (as we do), this next crop will be different fr
 
 For that, we need to bootstrap this trust relationship. **Be part of this story, join Crowdtainer on our first attempt to create a more fair link between farmers, roasters, and coffee drinkers**.
 
-<p class="tc"> [Crowdtainer Coffee Shop>](/shop)</div>
+<p class="tc"> <a href="/shop">Crowdtainer Coffee Shop ></a></p>
