@@ -42,10 +42,10 @@ By purchasing coffee *through Crowdtainer instead*, since there is no middlemen 
 <br />
 
 * The farmers get **better prices** for the coffee they produce
-* Consumers pay the similar or better prices compared to their local market
+* Consumers pay the similar or better prices compared to their local market, with more varieties to choose from.
 * Both parties benefit from a **closer relationship** and **sharing of values** (e.g. environmental responsibility, human care, transparency and traceability)
 
-<p class="tc"> <a href="/farmers">Learn about our farmers></a></p>
+<p class="tc"> <a href="/farmers">Learn about the first farmers></a></p>
 
 
 ### What you need to know:
