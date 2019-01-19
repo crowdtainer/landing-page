@@ -28,7 +28,7 @@ In our context, real value means **distributing work rewards more fairly**, and 
 
 **A liquid market place where vital coffee market information (such as volume, reputation, and price) can flow freely, is needed.**
 
-Crowdtainer is an attempt take advantage of programmable money to establish such connections at scale, to make it possible for small farmers in similar situation to that of our family, to be discoverable a able to trade in a more global context - a trade between producer directly the final coffee drinker (or roaster).
+Crowdtainer is an attempt take advantage of programmable money to establish such connections at scale, to make it possible for small farmers in similar situation to that of our family, to be discoverable and able to trade in a more global context - a trade between producer directly the final coffee drinker (or roaster).
 
 **The fundamental thought behind Crowdtainer is a trade solely between people adding value to the product.**
 
