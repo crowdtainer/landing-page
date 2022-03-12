@@ -22,6 +22,6 @@ A referral program is included in the Crowdtainer smart contract:
 * Upon a coffee purchase, a coupon / referral code is generated.
 * Each purchase made using the referral code will provide:
   *  **10% discount for the new purchase**
-  *  **10% of the purchase value goes to the referral code owner.**
+  *  **10% of the purchase value to the referral code owner.**
 
 *Note: The discounts and rewards are only effective if the minimum funding goal is reached.* 
