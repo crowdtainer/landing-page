@@ -1,7 +1,7 @@
 ---
-date: 2018-04-09T10:58:08-04:00
+date: 2022-03-14T08:55:00-01:00
 #title: "transfer( delicious_coffee, social_impact )"
-title: "Harvest 2019 - The first of many to be sold through blockchain?"
+title: "Harvest 2022 - The first of many to be sold through blockchain?"
 author: "Thiago F. Alencar"
 #tags: ["Did you know"]
 #featured_image: '/images/CoffeePour.jpg'
@@ -14,11 +14,13 @@ Total green coffee production is estimated at **9,7 million of tonnes (2018)** (
 
 Easily automated crops such as soybean allows investors to have a stable return at scales already, which is important to help feed the global population (at the cost of environmental impact), **but it depends on proper taxing to redistribute income to its people**. Given the huge income inequality in developing nations, we can say that regulations **haven't done that much of a great job** with either collecting or making wise use of the collected tax.
 
+{{< figure src="/images/cargo.jpg" class="ma4" title="Shipping containers: only for the big players?" >}}
+
 Given regulations changes slowly (if for good), combined with the fact that soybeans are already at the hands of big investors, it is hard to imagine how technological improvements could have better positive social impact for a nation's population in such system - a farmer can't even compete price-wise with their automated competitors. Their option is to adapt to other types of work or starve.
 
 What's interesting to note is that, **differently** from industries such as that of Soybeans, most of the coffee produced is cultivated by small farmers, **because it can't be easily automated with machinery** (automation costs in most cases are too high to be viable at the irregular terrain where specialty coffee can be cultivated) - yet, a few big players did manage to create a monopoly and take the bigger part of the pie by sitting right in the middle of the coffee trade.
 
-Some well intentioned roasters **do the extra work** of trying to find reliable farms themselves, but the approach of each roaster doing this on their own is expensive and doesn't scale very well - therefore **only a few farms gets discovered** and are able to trade this way (known as (Direct Trade)[https://en.wikipedia.org/wiki/Direct_trade]).
+Some well intentioned roasters **do the extra work** of trying to find reliable farms themselves, but the approach of each roaster doing this on their own is expensive and doesn't scale very well - therefore **only a few farms gets discovered** and are able to trade this way known as [Direct Trade](https://en.wikipedia.org/wiki/Direct_trade).
 
 This seems like a fertile ground for experimenting with a real-life use case of technologies such as blockchain for social good - what is missing here is a reliable link between the small farmers and consumers. If this link can be established through a blockchain protocol, **it has to potential to impact, in short term, the lives of millions that makes their living out of coffee**, without depending on changes of regulation. 
 
@@ -44,11 +46,9 @@ In Minas Gerais, where Crowdtainer's initial farms are located, harvest generall
 
 The picture below was taken on 23rd December 2018 from our family's farm.
 
-{{< figure src="/images/Coffee_grains_20181223.jpg" title="The first coffee beans are starting to develop for 2019's harvest" >}}
+{{< figure src="/images/Coffee_grains_20181223.jpg" title="The first coffee beans of 2019's harvest" >}}
 
-As you can see, the trees are already packed with green coffee fruits.
-
-If you **feel compelled enough** (as we do), this next crop will be different from all the others: instead of being sold to local traders, the beans you see above will be sold through a community of people like you who cares about what they drink, and all the people involved in the process.
+If you **feel compelled enough** (as we do), this year's crop will be different from all the others: instead of being sold to local traders, our beans will be sold through a community of people like you who cares about what they drink, and all the people involved in the process.
 
 For that, we need to bootstrap this trust relationship. **Be part of this story, join Crowdtainer on our first attempt to create a more fair link between farmers, roasters, and coffee drinkers**.
 

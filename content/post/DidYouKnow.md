@@ -15,13 +15,9 @@ The difficulty of coordinating producers of raw materials with buyers of a finis
 
 What is the option left to small farmers - **which collectively produce the majority of the traded coffee** ? You guessed: sell ultra cheap to local traders, which sells to bigger cooperatives, which sells to another trader in the importing country, which in turn sells to coffee shops and customers.
 
-{{< figure src="/images/TanzaniaValueChain.jpg" title="Coffee Price variation from farm to cup" >}}
+Some call this **the coffee paradox**: Small coffee producers aren’t able to get the best value for their product because there is no relationship connection between the final customer and the farm. Even if we consider a knowledgeable farmer manages to sell at a trading house (e.g.: BOVESPA), the prices found there are generally low since coffee traded in stock markets are of lower quality.
 
-Some scientists call this **the coffee paradox**: Small coffee producers aren’t able to get the best value for their product because there is no relationship connection between the final customer and the farm. Even for the few knowledgeable farmers that would attempt to sell at a trading house (e.g.: BOVESPA), the prices are extremely low.
-
-[[TODO: insert prices from BOVESPA, CME Group ]]
-
-The reality is that the concept of an "open-market" for coffee only exists for a few big corporations.
+The reality is that, with the exception of a few well inteded roasters that takes the extra mile (and expese) of dealing directly with a farmer, the concept of an "open-market" for good quality coffee only exists for a few big corporations and big traders, since the majority of small farmers are not lucky enough "to be found" by the few well intentioned small roasters that exist.
 
 {{< figure src="/images/coffee-supply-chain.jpg" title="Coffee supply chain" >}}
 
