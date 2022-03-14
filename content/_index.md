@@ -1,6 +1,5 @@
 ---
 #title: "transfer(delicious_coffee, positive_social_impact)"
-#featured_image: '/images/CoffeePour.jpg'
 featured_image: '/images/roasted-coffee.jpg'
 #description: "The logic-driven coffee"
 action_buttons:

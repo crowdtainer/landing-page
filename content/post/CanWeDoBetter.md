@@ -44,12 +44,11 @@ Now, for those unfamiliar, a coffee plantation produces coffee once per year, in
 
 In Minas Gerais, where Crowdtainer's initial farms are located, harvest generally starts end of May, has its peak in July, and lasts until the end of September, when almost all coffee has been harvested. The reason harvest can take so long is also for the fact that most specialty coffee needs to be hand-picked due the irregular and steep terrain angles that machines can't reach.
 
-The picture below was taken on 23rd December 2018 from our family's farm.
-
-{{< figure src="/images/Coffee_grains_20181223.jpg" title="The first coffee beans of 2019's harvest" >}}
-
 If you **feel compelled enough** (as we do), this year's crop will be different from all the others: instead of being sold to local traders, our beans will be sold through a community of people like you who cares about what they drink, and all the people involved in the process.
 
+{{< figure src="/images/BuyHappiness.jpg" class="ma5" >}}
+
 For that, we need to bootstrap this trust relationship. **Be part of this story, join Crowdtainer on our first attempt to create a more fair link between farmers, roasters, and coffee drinkers**.
+
 
 <p class="tc"> <a href="/shop">Crowdtainer Coffee Shop ></a></p>
