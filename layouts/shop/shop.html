@@ -2,21 +2,31 @@
 {{ define "main" }}
   <div class="flex-l mt1 mw8 center tc c-helvetica-neue ma3-l">
       <article class="center cf pv5 ph3 ph4-ns mw8">
-          <h1 class="f2 f1-l fw2  mb0 lh-title">
-              The first roasted coffee sale powered by <em class="dark-green">programmable money.</em>
+              <h2 class="tc fw2 f2  mt3 mb4">Group buying starts soon!</h3>
+          <div class="tc-l mt3 mt4-m mt5-l ph3">
+              <a class="f6 no-underline grow dib v-mid bg-blue white ba b--blue ph3 pv2 mb3" href="https://t16r.substack.com">Subscribe on our Substack to be notified</a>
+            </div>
+          <p>
+            And follow us on twitter:
+          </p>
+          <a href="https://twitter.com/crowdtainer" target="_blank" class="link-transition twitter link dib z-999 pt3 pt0-l mr1" title="Twitter link" rel="noopener" aria-describedby="new-window-0">
+            {{ partial "svg/twitter.svg" (dict "size" 64) }}
+            {{- partial "new-window-icon.html" . -}}
+          </a>
+
+          <h1 class="f4 f1-m fw  mb0 lh-title ma6">
+              The first roasted coffee sale powered by <em class="dark-green">Ethereum.</em>
           </h1>
           <br />
-              <h2 class="tc fw2 f3  mt3 mb4">Crowdfunding starts on XX/XX/2019 and finishes on XX/XX/2019.</h3>
-          <div class="tc-l mt3 mt4-m mt5-l ph3">
-              <a class="f6 no-underline grow dib v-mid bg-blue white ba b--blue ph3 pv2 mb3" href="/">Crowdtainer Dashboard</a>
-            </div>
-          <h2 class="tl fw4 f4 lh-copy mt0 mb3">
+
+          <!-- <h2 class="tl fw4 f4 lh-copy mt0 mb3">
               Minimum requirements:
           </h2>
           <h4 class="tl">
             - Web3 enabled browser (e.g.: Chrome Metamask extension) <br />
             - Participation implies acceptance of our Terms of Agreements (TODO: add link)
           </h4>
+          -->
         </article>
   </div>
 {{ end }}

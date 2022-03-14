@@ -1,6 +1,6 @@
 ---
 title: "How it works"
-description: "A direct link between consumer and producer."
+description: "A more direct link between consumers and producers."
 # description: "Most of the coffee produced in the world is hand-picked and cultivated by small farmers. Yet, its markets are moved by a few huge companies."
 featured_image: '/images/CoffeeBags.jpg'
 type: page
