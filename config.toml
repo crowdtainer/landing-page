@@ -1,5 +1,5 @@
 title = ">./Crowdtainer.io"
-baseURL = "/"
+baseURL = "crowdtainer.io/"
 languageCode = "en-us"
 theme = "ananke"
 
