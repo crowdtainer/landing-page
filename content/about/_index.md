@@ -9,11 +9,6 @@ menu:
   }
 ---
 
-<!-- # <div class="tc">Sharing is caring.</div> -->
-<br /> 
-<img class="img50-50 center" src="/images/DAI_120.png">
-<!--  ![DAI Symbol](/images/DAI_120.png "DAI symbol")  -->
-
 ## Crowdtainer: Crowdfunding a Container
 
 At its surface, Crowdtainer looks much like a standard crowdfunding platform, but if you look under the hood, you'll soon see quite a big difference: A protocol sits at its core, and not a company.
@@ -42,9 +37,20 @@ We attempt to bootstrap this ecosystem with our first project related to coffee,
 
 {{< figure src="/images/DiagramV1.svg">}}
 
-This initial project helps people with similar interests to coordinate and form a bulk purchase, reducing costs for the whole group due improved logistics, enabling otherwise not viable projects.
+The current smart contracts helps to form a 'bulk purchase', reducing costs for the whole group due improved logistics, enabling otherwise not viable projects.
 
 Buyers then have more diversity of products and services to choose from, at a potentially lower cost. At the supply side, projects that were formerly impossible due low economies of scale or tragedy of common goods problems, may now become a possibility.
 
+## Trust
+
+This trust transfer is the most difficult part of this project. Afterall, the basic role of the middlemen (and why it emerged) is for both sides of the network to be able to trust each other with little friction as possible. So, we need to take one step at a time, and attempt to make the system robust enough that it can grow overtime to include new players, but without being gamed or unfair.
+
+While the status quo of this project still relies on you trusting *us* via traditional contractual agreement to deliver on our promises of a coffee sale (backed by the traditional court system and legal laws - i.e., a normal purchase-sale agreement), we see this is a stepping stone to build initial trust.
+
+For now, we are keeping things simple, and the only incentives are: one, a buyer's wish for great coffee, and two, a referral system where a buyer whose promotion code is used in a subsequent purchase is rewared via smart contract (i.e., a promotion code is redeemed). 
+
+That said, we do have some really interesting ideas to share later on. This problem that is portrayed here as a coffee-specific supply chain issue is actually present in many other places and other small business, so although we are building this first in the spirit of "solving one's own problem", we think this can be generalised for many other projects (maybe yours too!).
+
+For now, we count on you to support us on our first step :) 
 
 
