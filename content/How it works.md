@@ -1,6 +1,6 @@
 ---
 title: "How it works"
-description: "A direct link between consumer and producer."
+description: "A more direct link between consumers and producers."
 # description: "Most of the coffee produced in the world is hand-picked and cultivated by small farmers. Yet, its markets are moved by a few huge companies."
 featured_image: '/images/CoffeeBags.jpg'
 type: page
@@ -27,18 +27,6 @@ menu:
 2. Pay with DAI token
 3. The funding goal is *not* reached ❌
 4. Claim your DAI tokens back.
-
-### Things to note:
-
-* For the first Crowdtainer, only **European Union** customers are eligible.
-
-* The product you get as a participant in the first Crowdtainer wave is **roasted coffee beans** in small packages of 500 grams or 1 Kilogram.
-
-* The delivery address is **never** saved on the Blockchain or made public anyhow: we follow **GDPR** rules, and collect only the information needed for delivery purposes. Such information is sent off-chain in encrypted form to our centralised severs, and will be destroyed once the item is shipped. 
-
-* 1 DAI approximates 1 US Dolar. We use **DAI** instead of **Ether** (or any other cryptocurrency for that matter) to avoid volatility. The *_DAI_* is a USD-pegged stablecoin token that exists on the Ethereum network.
-
-* **IMPORTANT:** We assume that the smart contracts will operate as intended per description above, where we will be responsible for delivering the coffee **if and only if** the funds are made available to us (that is, the payment reaches our ethereum account). Therefore, the buyer must be aware and willing to accept the risks involved with blockchain, smart contract security, and any other unexpected risks of bootstrapping a new sale channel.
 
 
 ## Longer explanation:
@@ -67,17 +55,6 @@ By purchasing coffee *through Crowdtainer*, since there is way less middlemen in
 * Consumers pay the similar or better prices compared to their local market, with more varieties to choose from.
 * Both parties benefit from a **closer relationship** and **sharing of values** (e.g. environmental responsibility, human care, transparency and traceability, or other community values in other instances of crowdtainer)
 
-## Long term vision
-
-This trust transfer is the most difficult part of the project. Afterall, the basic role of the middlemen (and why it emerged) is for both sides of the network to be able to trust each other with little friction as possible. So, we need to take one step at a time, and attempt to make the system robust enough that it can grow overtime to include new players, but without being gamed or unfair.
-
-While the status quo of this project still relies on you trusting *us* via traditional contractual agreement (backed by the traditional court system and legal laws - i.e., a normal purchase-sale agreement) , we see this is a stepping stone to develop systems where one needs to rely less on such trust assumptions, but instead build atop a carefully designed incentive system.
-
-For now, we are keeping things simple, and the only incentives are: one, a buyer's wish for great coffee, and two, a referral system where a buyer whose promotion code is used in a subsequent purchase is rewared via smartcontract (i.e., a promotion code is redeemed). 
-
-That said, we do have some really interesting ideas to share later on. This problem that is portrayed here as a coffee-specific supply chain issue is actually present in many other places and other small business, so although we are building this first in the spirit of "solving one's own problem", we think this can be generalised for many other projects (maybe yours too!).
-
-For now, we count on you to support us on our first step :) 
 
 <p class="tc"> <a href="/farmers">Learn about the first farmers></a></p>
 
@@ -85,7 +62,18 @@ For now, we count on you to support us on our first step :)
 
 <!-- We accept **help with auditing the smartcontracts** or **donations** to the following address: **0xasldkfjasldkfjlkjskldf** -->
 
+<!--
+### Things to note:
 
+* For the first Crowdtainer, only **European Union** customers are eligible.
+
+* The product you get as a participant in the first Crowdtainer wave is **roasted coffee beans** in small packages of 500 grams or 1 Kilogram.
+
+* The delivery address is **never** saved on the Blockchain or made public anyhow: we follow **GDPR** rules, and collect only the information needed for delivery purposes. Such information is sent off-chain(and only given a crowdfunding succeeds) in encrypted form to our centralised servers, and will be destroyed once the item is shipped as soon as it is legally possible.
+
+* 1 DAI approximates 1 US Dolar. We use **DAI** instead of **Ether** (or any other cryptocurrency for that matter) to avoid volatility. The *_DAI_* is a USD-pegged stablecoin token that exists on the Ethereum network.
+
+* **IMPORTANT:** We assume that the smart contracts will operate as intended per description above, where we will be responsible for delivering the coffee **if and only if** the funds are made available to us (that is, the payment reaches our ethereum account). Therefore, the buyer must be aware and willing to accept the risks involved with blockchain, smart contract security, and any other unexpected risks of bootstrapping a new sale channel.  -->
 
 
 <!-- > ### The challange is to create a more efficient trade than what exists today. Cutting the middlemen means farmers selling directly to coffee drinkers or roasters. -->

@@ -18,7 +18,7 @@ enableRobotsTXT = true
 [params]
   custom_css = ["css/custom.css"]
   body_classes = "avenir bg-white"
-  favicon = "images/crowdtainer_logo_340.png"
+  favicon = "images/CrowdtainerLogo.svg"
   description = "combine(delicious_coffee, positive_social_impact)"
   facebook = ""
   twitter = "https://twitter.com/crowdtainer"
