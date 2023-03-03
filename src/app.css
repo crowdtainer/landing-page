@@ -1,0 +1,114 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .active-btn {
+    @apply bg-sky-900 text-white font-display px-3 py-2 rounded-md text-sm font-medium;
+  }
+
+  .inactive-btn {
+    @apply font-display hover:bg-sky-900 hover:text-white px-3 py-2 rounded-md text-sm font-medium;
+  }
+
+  .mobile-active-btn {
+    @apply bg-gray-800 font-display block px-3 py-2 rounded-md text-base font-medium;
+  }
+
+  .mobile-inactive-btn {
+    @apply text-gray-300 font-display hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium;
+  }
+
+  .red-action-btn {
+    @apply text-white bg-red-700 hover: bg-red-500 hover:shadow-lg px-16 mt-6 py-4 font-medium text-sm leading-tight uppercase rounded-xl shadow-md focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg;
+  }
+
+  .sky-btn {
+    @apply bg-sky-600 text-white hover: bg-sky-500 hover:shadow-lg px-16 mt-6 py-4 font-medium text-sm leading-tight uppercase rounded-xl shadow-md focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg;
+  }
+
+  .gray-btn {
+    @apply bg-gray-400 text-white hover: bg-gray-400 hover:shadow-lg px-16 mt-6 py-4 font-medium text-sm leading-tight uppercase rounded-xl shadow-md focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg;
+  }
+
+  .ct-divider {
+    /* @apply bg-gradient-to-r from-slate-800 to-slate-800 ; */
+    @apply bg-[#172939] dark: bg-[#0D1116];
+  }
+
+  .campaignSection {
+    @apply border-b-4 border-double dark: border-gray-400 border-gray-700;
+    @apply text-black dark: text-gray-200;
+  }
+
+  .tooltip {
+    @apply invisible absolute;
+  }
+
+  .has-tooltip:hover .tooltip {
+    @apply visible z-50;
+  }
+
+  .projectStatus {
+    @apply font-display;
+    @apply text-lg font-medium dark: text-gray-200;
+  }
+
+  .projectData {
+    @apply font-display;
+    @apply text-black dark: text-gray-200 text-base font-medium;
+  }
+
+  .projectDataSubtitle {
+    @apply font-display;
+    @apply dark: text-white text-sm font-light;
+  }
+
+  .productPrice {
+    @apply font-display;
+    @apply text-xl font-medium;
+  }
+
+  .toastBox {
+    @apply text-white;
+    @apply p-2 m-1;
+    @apply mt-2;
+    @apply rounded-md;
+    @apply flex flex-row;
+    /* @apply ; */
+  }
+
+  .toastButton {
+    @apply fill-white;
+    @apply bg-none;
+    @apply inline-block;
+    @apply px-2;
+  }
+
+  .warningToast {
+    @apply mx-2;
+    @apply bg-red-500;
+  }
+
+  .infoToast {
+    @apply mx-2;
+    @apply bg-sky-500;
+  }
+
+  .successToast {
+    @apply mx-2;
+    @apply bg-green-600;
+  }
+
+  .dashedBorder {
+    @apply border-t-2 border-gray-700 border-dashed;
+  }
+
+  .text-input-form {
+    @apply form-control block w-full px-3 py-1.5 text-base;
+    @apply font-normal text-gray-700 bg-white bg-clip-padding;
+    @apply border border-solid border-gray-300 rounded transition ease-in-out m-0;
+    @apply focus: text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none;
+  }
+
+}

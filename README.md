@@ -1,24 +1,24 @@
-# Crowdtainer landing page
+## Crowdtainer presentation page
 
-This is the current landing page for the first instance of a Crowdtainer project.
+## Developing
 
-In the future, this page will be replaced with a more generalized website for the Crowdtainer and its related projects (open source), instead of a bigger focus on the first instance itself.
+Once you've cloned the repository:
 
-
-### Setup
-
-Install dependencies
+Install dependencies with `npm install` and start a development server:
 
 ```bash
-# MacOS
-brew install hugo
+npm run dev
 
-# linux
-sudo apt-get install hugo
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
 ```
 
-### Running the application 
+## Building
+
+To create a production version:
 
 ```bash
-hugo server -D
+npm run build
 ```
+
+You can preview the production build with `npm run preview`.
