@@ -64,9 +64,10 @@
 						</li>
 						<li>
 							<p>
-								<b>A service/product provider</b>, which offers a sale contract (or other custom agreement) via the platform and
-								would usually be the legal counterpart responsible for shipping the products to the
-								participants (or provider the promised services). Usually this is also the party hosting the frontend.
+								<b>A service/product provider</b>, which offers a sale contract (or other custom
+								agreement) via the platform and would usually be the legal counterpart responsible
+								for shipping the products to the participants (or provide the promised services).
+								Usually this is also the party hosting the frontend.
 							</p>
 						</li>
 					</ol>
@@ -75,11 +76,12 @@
 					<h2 class="text-primary">How?</h2>
 
 					<p>
-						I (my company) have deployed and host an "instance" of the platform (this website), and
-						display only the product(s) that I sell myself as a company. Participating in any of my
-						campaigns will help develop this project further. However, people are free and
-						encouraged to take all the open source code and do their own deployments with their own
-						projects.
+						Barterfly has deployed and host an "instance" of the platform at
+						https://app.barterfly.de, and display only the product(s) that we sell as a company.
+						Participating in any of of those campaigns will help develop this project further.
+						However, people are free and encouraged to take all the open source code and do their
+						own deployments with their own projects (under their own responsability) - and of
+						course, are welcome to contribute back with code improvements.
 					</p>
 					<p>
 						On the surface, the platform is similar to other crowdfunding platforms, but at a closer
@@ -98,13 +100,12 @@
 						</li>
 						<li>
 							<b>Custody.</b> The service/product provider does not have access to customer funds at
-							all until the minimum target is reached and the bulk transfer can be completed "at once" or not at all.
-							This not only makes sense in general, but avoids legal problems that would arrise if a
-							company/person is (even if temporarily) managing and holding customer funds before the
-							project is known to be successfull.
+							all until the minimum target is reached and the bulk transfer can be completed "at once"
+							or not at all. This not only makes sense in general, but avoids legal problems that would
+							arrise if a company/person is (even if temporarily) managing and holding customer funds
+							before the project is known to be successfull.
 						</li>
 					</ul>
-
 				</div>
 			</article>
 		</div>
