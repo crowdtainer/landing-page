@@ -62,10 +62,10 @@
 </div>
 
 <div class="flex justify-center my-5 pb-20 space-x-4">
-	<a href="https://github.com/crowdtainer/dapp-web" target="_blank" rel="noreferrer"
+	<a href="https://github.com/crowdtainer/dapp-contracts" target="_blank" rel="noreferrer"
 		><div class="btn active-btn">Smart contract 🔗</div>
 	</a>
-	<a href="https://github.com/crowdtainer/dapp-contracts" target="_blank" rel="noreferrer">
+	<a href="https://github.com/crowdtainer/dapp-web" target="_blank" rel="noreferrer">
 		<div class="btn active-btn">Frontend 🔗</div>
 	</a>
 </div>
