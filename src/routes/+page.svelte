@@ -1,10 +1,54 @@
-<div class="container mx-auto flex justify-center items-center my-10">
-	<div class="flex flex-wrap">
-		<div class="pl-0 sm:pl-10 lg:pl-40 space-y-5 text-center md:shrink-0">
-			<div class="flex justify-center sm:py-10">
-				<img class="lg:h-40 md:h-32 h-28" alt="Crowdtainer Logo" src="images/CrowdtainerLogo.svg" />
-			</div>
+<script lang="ts">
+	import { onMount } from 'svelte';
+	import { typewriter } from '$lib/transitions.js';
 
+	var messages = new Array(
+		['Invite friends to support your project.'],
+		['Build your dreams.'],
+		['Fund your book.'],
+		['Buy in group & get discounts.'],
+		['Kickstart that side-project.'],
+		['What will you build, anon?'],
+	);
+	let index = 0;
+
+	onMount(() => {
+		const interval = setInterval(() => {
+			index += 1;
+			index %= messages.length;
+		}, 4500);
+
+		return () => {
+			clearInterval(interval);
+		};
+	});
+</script>
+
+<div class="flex justify-center my-16 pt-16">
+	<div class="text-black dark:text-gray-100 mx-10">
+		<div class="mockup-code bg-gray-900 shadow-2xl">
+			{#key index}
+				<pre data-prefix=">">
+					<code class=" -ml-44 text-sm md:text-md lg:text-xl text-green-500" in:typewriter={{ speed: 3 }}
+						>{`${messages[index]}` || ''}</code
+					>
+			</pre>
+			{/key}
+		</div>
+	</div>
+</div>
+<div class="flex justify-center text-3xl mx-w-2xl">
+	<p class="mt-8 mx-8 text-center">
+		Fund, operate, and scale your ideas & communities transparently on Ethereum.
+	</p>
+</div>
+
+<div class="container mx-auto flex justify-center items-center my-10">
+	<div class="flex flex-wrap items-center">
+		<div class="pl-0 sm:pl-10 lg:pl-40 space-y-5 text-center md:shrink-0 ">
+			<div class="flex justify-center sm:py-10">
+				<img class="lg:h-36 md:h-32 h-28" alt="Crowdtainer Logo" src="images/CrowdtainerLogo.svg" />
+			</div>
 			<div class="">
 				<div class="px-8">
 					<div
@@ -66,6 +110,14 @@
 		><div class="btn active-btn">Smart contract 🔗</div>
 	</a>
 	<a href="https://github.com/crowdtainer/dapp-contracts" target="_blank" rel="noreferrer">
-		<div class="btn active-btn">Frontend 🔗</div>
+		<div class="btn active-btn">Frontend / Backend🔗</div>
 	</a>
+</div>
+
+<div class="mb-40">
+	<div class="flex justify-center text-3xl ">
+		<p class="mt-8 mx-8 text-center max-w-xl ">
+			Let's bring unique projects, products, and ideas to life.
+		</p>
+	</div>
 </div>
