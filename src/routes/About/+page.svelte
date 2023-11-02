@@ -1,9 +1,4 @@
-<div class="flex justify-center  my-6">
-	<div class="">
-		<img class="my-8 h-32 w-32 rounded-full" src="/images/CrowdtainerLogo.svg" alt="" />
-	</div>
-</div>
-<div class="flex justify-center">
+<div class="flex justify-center mt-10">
 	<p class="font-sans text-center dark:text-gray-200 text-xl mb-2 md:mb-0 md:text-2xl">About</p>
 </div>
 
@@ -36,20 +31,51 @@
 						behind the <b>Crowdtainer</b> project.
 					</p>
 
+					<p>
+						On the surface, the platform is similar to other crowdfunding platforms, but at a closer
+						look you will see a few important differences:
+					</p>
+					<ul>
+						<li>
+							<b>Banks and credit cards not required.</b> Automated by the smart contracts which lives
+							on Ethereum. Less fees for banks, more for your project.
+						</li>
+						<li>
+							<b>Transparent & fair referral system.</b> Smart contracts allow the public to inspect
+							the source code and make sure that friend referrals are fairly distributed.
+						</li>
+						<li>
+							<b>Improved privacy.</b> A direct communication channel between the supplier and consumer
+							reduces exposure of consumer private data: instead of multiple companies receiving data
+							such as delivery details, only the actual service provider receives it. There are also
+							other opportunities to improve the status quo when it comes to online orders and privacy
+							by using zero knowledge proofs to prove participation.
+						</li>
+						<li>
+							<b>Custody.</b> The service/product provider does not have access to customer funds at
+							all until the minimum target is reached and the bulk transfer can be completed "at once"
+							or not at all. This not only makes sense in general, but avoids legal problems that would
+							arrise if a company/person is (even if temporarily) managing and holding customer funds
+							before the project is known to be successfull.
+						</li>
+					</ul>
+
 					<!-- What -->
 					<h2 class="text-primary">What?</h2>
 					<p class="lead dark:text-gray-300">
-						Crowdtainer is an <a href="https://github.com/crowdtainer">open source</a> group buying application.
-						With Crowdtainer, groups of people with similar interests can easily discover whether there
-						is enough interest in a certain product or service.
+						Crowdtainer is an <a href="https://github.com/crowdtainer">open source</a> crowdfunding
+						/ group buying application where groups of people with similar interests can
+						discover whether there is enough interest in a certain product or service.
 					</p>
 					<p>
 						It strives to be abstract enough to be used for a variety of projects, essentially any
 						situation where pooling funds for a common goal is desired.
 					</p>
 					<p>
-						When enough funds are pooled, an atomic set of bulk orders can be performed by the
-						service provider. If not, participants withdraw their funds (ERC20) back.
+						When enough funds are pooled, the funds are withdrawn either to a service provider, a
+						<a href="https://github.com/0xSplits/splits-sdk">split contract</a>, or other system to
+						deliver on the promises. If the minimum goal is not reached, participants withdraw their
+						funds (ERC20) back.
 					</p>
 
 					<p>An instantiation of a campaign has two main parts:</p>
@@ -76,38 +102,42 @@
 					<h2 class="text-primary">How?</h2>
 
 					<p>
-						Barterfly has deployed and host an "instance" of the platform at
-						https://app.barterfly.de, and display only the product(s) that we sell as a company.
-						Participating in any of of those campaigns will help develop this project further.
-						However, people are free and encouraged to take all the open source code and do their
-						own deployments with their own projects (under their own responsability) - and of
-						course, are welcome to contribute back with code improvements.
+						You can see a live example 'instantiation' of Crowdtainer, hosted by Barterfly at
+						<a href="https://app.barterfly.de">https://app.barterfly.de</a>, which displays only the
+						offerings of Barterfly as a company. However, anyone is encouraged to take all the open
+						source code and do their own deployments with their own projects (under their own
+						responsability) - and of course, are welcome to contribute back with code improvements.
 					</p>
 					<p>
-						On the surface, the platform is similar to other crowdfunding platforms, but at a closer
-						look you will see a few important differences:
+						Next steps for Crowdtainer includes improving documentation and creating tutorials, so
+						that other developers and entrepreneurs can create and launch their own project easily.
 					</p>
-					<ul>
-						<li>
-							<b>Credit cards are not required.</b> Neither there is a "crowdfunding company", since
-							this part is
-							<b>automated by the smart contracts</b> which lives on Ethereum.
-						</li>
-						<li>
-							<b>Improved privacy.</b> There are ways to improve the status quo when it comes to online
-							orders and privacy by using zero knowledge proofs to prove participation. More details
-							on this soon.
-						</li>
-						<li>
-							<b>Custody.</b> The service/product provider does not have access to customer funds at
-							all until the minimum target is reached and the bulk transfer can be completed "at once"
-							or not at all. This not only makes sense in general, but avoids legal problems that would
-							arrise if a company/person is (even if temporarily) managing and holding customer funds
-							before the project is known to be successfull.
-						</li>
-					</ul>
+					<p>Join our discord and explore our open source repositories.</p>
 				</div>
 			</article>
+		</div>
+
+		<div class="py-2 mx-4 mb-8 flex justify-center w-full sm:w-auto">
+			<div class=" max-w-3xl text-center drop-shadow-2xl rounded-[15px] py-2 md:p-4">
+				<h2 class="text-2xl lg:text-3xl font-bold p-2">Crowdtainer community</h2>
+				<a href="https://discord.gg/ZS3FcRHn" target="_blank" rel="noreferrer">
+					<div class="flex justify-center">
+						<img
+							src="/images/groupChat.png"
+							class="justify-center align-center w-6 lg:w-auto h-20 mt-8"
+							alt="github"
+						/>
+					</div>
+					<div class="flex justify-center ">
+						<button
+							class="mx-2 items-center bg-green-800 hover:bg-green-600 min-w-max gap-2 lg:gap-4 btn active-btn mt-4 flex text-gray-200 py-2 outline-none focus:outline-none mb-1 ease-linear transition-all duration-150"
+							type="button"
+						>
+							<div class="text-sm lg:text-xl  font-semibold h-full">Discord / Chat</div>
+						</button>
+					</div>
+				</a>
+			</div>
 		</div>
 	</div>
 </div>
