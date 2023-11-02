@@ -62,13 +62,15 @@
 			</div>
 			<div class="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
 				<div class="flex-shrink-0 flex items-center">
-					<a href="/">
-						<img
-							class="block lg:hidden h-8 w-auto"
-							src="/images/CrowdtainerLogo.svg"
-							alt="Workflow"
-						/>
-					</a>
+					{#if path != '/'}
+						<a href="/">
+							<img
+								class="block lg:hidden h-8 w-auto"
+								src="/images/CrowdtainerLogo.svg"
+								alt="Workflow"
+							/>
+						</a>
+					{/if}
 					{#if isDarkMode}
 						<a href="/">
 							<img
