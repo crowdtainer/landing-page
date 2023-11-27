@@ -45,7 +45,7 @@
 		<div class="mockup-code bg-gray-900 shadow-2xl">
 			{#key index}
 				<pre data-prefix=">">
-					<code class=" -ml-44 text-xs md:text-sm lg:text-xl text-green-500" in:typewriter={{ speed: 3 }}
+					<code class=" -ml-44 text-xs md:text-sm lg:text-xl text-green-500" in:typewriter|global={{ speed: 3 }}
 						>{`${messages[index]}` || ''}</code
 					>
 			</pre>
