@@ -120,11 +120,11 @@
 		<div class="py-2 mx-4 mb-8 flex justify-center w-full sm:w-auto">
 			<div class=" max-w-3xl text-center drop-shadow-2xl rounded-[15px] py-2 md:p-4">
 				<h2 class="text-2xl lg:text-3xl font-bold p-2">Crowdtainer community</h2>
-				<a href="https://discord.gg/ZS3FcRHn" target="_blank" rel="noreferrer">
+				<a href="https://discord.gg/D6FrwCfKAP" target="_blank" rel="noreferrer">
 					<div class="flex justify-center">
 						<img
 							src="/images/groupChat.png"
-							class="justify-center align-center w-6 lg:w-auto h-20 mt-8"
+							class="justify-center align-center w-6 w-auto h-20 mt-8"
 							alt="github"
 						/>
 					</div>

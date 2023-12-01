@@ -6,8 +6,8 @@
 		['Invite friends to support your project.'],
 		['Build your dreams.'],
 		['Fund your book.'],
-		['Buy in group & get discounts.'],
-		['Kickstart that side-project.'],
+		['Buy in group to get discounts.'],
+		['Kickstart your side-project.'],
 		['What will you build, anon?']
 	);
 	let index = 0;
@@ -22,6 +22,7 @@
 			clearInterval(interval);
 		};
 	});
+
 </script>
 
 <div class="flex justify-center sm:pt-10 mt-5">
@@ -45,8 +46,9 @@
 		<div class="mockup-code bg-gray-900 shadow-2xl">
 			{#key index}
 				<pre data-prefix=">">
-					<code class=" -ml-44 text-xs md:text-sm lg:text-xl text-green-500" in:typewriter={{ speed: 3 }}
-						>{`${messages[index]}` || ''}</code
+					<code
+						class=" -ml-44 text-xs md:text-sm lg:text-xl text-green-500"
+						in:typewriter|global={{ speed: 3 }}>{`${messages[index]}` || ''}</code
 					>
 			</pre>
 			{/key}
@@ -54,7 +56,7 @@
 	</div>
 </div>
 
-<div class="flex justify-center my-16 ">
+<div class="flex justify-center my-16">
 	<div class="mx-10 space-y-5 text-center">
 		<div class="sm:flex items-center w-auto">
 			<div class="">
@@ -86,7 +88,7 @@
 
 <div class="flex justify-center items-center my-16 mx-4 mb-18">
 	<div class="flex flex-wrap items-center">
-		<div class="space-y-5 text-center ">
+		<div class="space-y-5 text-center">
 			<div class="bg-gray-100 dark:bg-gray-800 p-8 rounded-xl">
 				<div class="px-2">
 					<!-- </span> -->
@@ -123,14 +125,14 @@
 </div>
 
 <div class="mb-20">
-	<div class="flex justify-center text-3xl ">
-		<p class="mt-8 mx-8 text-center max-w-xl ">
+	<div class="flex justify-center text-3xl">
+		<p class="mt-8 mx-8 text-center max-w-xl">
 			Self-hosting & standing by the original web3 principles.
 		</p>
 	</div>
 </div>
 
-<div class="flex justify-center my-10 ">
+<div class="flex justify-center my-10">
 	<div class="mx-10 space-y-5 max-w-3xl">
 		<div class="sm:flex items-center">
 			<div class="text-xl">
@@ -141,25 +143,24 @@
 	</div>
 </div>
 
-<div class="flex justify-center my-10 ">
-	<div class="mx-10 space-y-5  max-w-3xl">
+<div class="flex justify-center my-10">
+	<div class="mx-10 space-y-5 max-w-3xl">
 		<div class="sm:flex items-center">
 			<div class="text-xl">
-				With Crowdtainer, you can eliminate the necessity for multiple intermediary companies when funding a project: minimize
-				compounding fees and the involvement of several entities in agreements between two parties
-				(service/product provider and supporters).
+				With Crowdtainer, you can eliminate the necessity for multiple intermediary companies when
+				funding a project: minimize compounding fees and the involvement of several entities in
+				agreements between two parties (service/product provider and supporters).
 			</div>
 		</div>
 	</div>
 </div>
 
-<div class="flex justify-center my-10 ">
+<div class="flex justify-center my-10">
 	<div class="mx-10 space-y-5 max-w-3xl">
 		<div class="sm:flex items-center">
 			<div class="text-xl">
-				Streamline the functions typically handled by crowdfunding companies and
-				multiple payment intermediaries, thereby reducing the accumulation of charges and data
-				sharing.
+				Streamline the functions typically handled by crowdfunding companies and multiple payment
+				intermediaries, thereby reducing the accumulation of charges and data sharing.
 			</div>
 		</div>
 	</div>
@@ -168,7 +169,7 @@
 <section class="py-2 mx-4 mb-4 flex justify-center w-full sm:w-auto">
 	<div class=" max-w-3xl text-center drop-shadow-2xl rounded-[15px] py-2 md:p-4">
 		<h2 class="text-2xl lg:text-3xl font-bold p-8">Crowdtainer community</h2>
-		<a href="https://discord.gg/ZS3FcRHn" target="_blank" rel="noreferrer">
+		<a href="https://discord.gg/D6FrwCfKAP" target="_blank" rel="noreferrer">
 			<div class="flex justify-center">
 				<img
 					src="/images/groupChat.png"
@@ -176,12 +177,12 @@
 					alt="github"
 				/>
 			</div>
-			<div class="flex justify-center ">
+			<div class="flex justify-center">
 				<button
 					class="mx-2 items-center bg-green-800 hover:bg-green-600 min-w-max gap-2 lg:gap-4 btn active-btn mt-4 flex text-gray-200 py-2 outline-none focus:outline-none mb-1 ease-linear transition-all duration-150"
 					type="button"
 				>
-					<div class="text-sm lg:text-xl  font-semibold h-full">Discord / Chat</div>
+					<div class="text-sm lg:text-xl font-semibold h-full">Discord / Chat</div>
 				</button>
 			</div>
 		</a>
@@ -189,19 +190,18 @@
 </section>
 
 <div class="mb-16">
-	<div class="flex justify-center text-xl ">
-		<p class="mt-2 mx-8 text-center max-w-xl ">
-			While we're <a href="https://app.barterfly.de" class="link">dogfooding</a> this project, there's a lot more that needs to be done. Join our
-			discord channel and participate on this journey.
+	<div class="flex justify-center text-xl">
+		<p class="mt-2 mx-8 text-center max-w-xl">
+			While we're <a href="https://app.barterfly.de" class="link">dogfooding</a> this project, there's
+			a lot more that needs to be done. Join our discord channel and participate on this journey.
 		</p>
 	</div>
 </div>
 
 <div class="mb-20">
-	<div class="flex justify-center text-3xl ">
-		<p class="mt-4 mx-8 text-center max-w-xl ">
+	<div class="flex justify-center text-3xl">
+		<p class="mt-4 mx-8 text-center max-w-xl">
 			Let's bring unique projects, products, and ideas to life.
 		</p>
 	</div>
 </div>
-
