@@ -19,9 +19,9 @@
 		"@typescript-eslint/eslint-plugin": "^5.45.0",
 		"@typescript-eslint/parser": "^5.45.0",
 		"autoprefixer": "^10.4.13",
-		"eslint": "^8.28.0",
-		"eslint-config-prettier": "^8.5.0",
-		"eslint-plugin-svelte3": "^4.0.0",
+		"eslint": "^8.5.4",
+		"eslint-config-prettier": "^9.0.0",
+		"eslint-plugin-svelte": "^2.35.1",
 		"postcss": "^8.4.21",
 		"prettier": "^2.8.0",
 		"prettier-plugin-svelte": "^2.10.1",
@@ -38,6 +38,6 @@
 		"@fontsource/red-hat-text": "^4.5.12",
 		"@steeze-ui/heroicons": "^2.2.2",
 		"@steeze-ui/svelte-icon": "^1.3.2",
-		"daisyui": "^2.51.3"
+		"daisyui": "^4.4.10"
 	}
 }
